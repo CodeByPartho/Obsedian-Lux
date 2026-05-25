@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Lux",
+  "description": "An immersive, premium dark-luxury e-commerce experience featuring high-end apparel, interactive 3D particle systems, scrolling tickers, and a robust administrative panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
