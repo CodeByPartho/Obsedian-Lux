@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>💎 Obsidian Lux</h1>
+ <h1>Obsidian Lux</h1>
 
   <p><b>Immersive Dark-Luxury E-Commerce & AI Experience</b></p>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **Obsidian Lux** is an avant-garde digital storefront redefining luxury retail online. Built around an aesthetic of deep obsidian tones, gold accents, and subtle typography, the application merges interactive particle systems and fluid layout transitions with on-demand AI styling assistance.
 
@@ -29,18 +29,18 @@ Powered by Google's Gemini API, Obsidian Lux features an integrated luxury styli
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✨ **Haute Couture Aesthetic** — Dark-luxury UI with glassmorphic depth, dynamic particle atmospheres, and typographic precision.
-- 🤖 **Gemini AI Luxury Concierge** — In-app conversational personal shopper and stylist powered by the `@google/genai` SDK.
-- 🛍️ **Interactive Product Showcase** — Fluid gallery view, responsive detail cards, high-resolution zoom, and real-time cart interactions.
-- 🎞️ **Cinematic Micro-Interactions** — Smooth hardware-accelerated animations and scrolling tickers engineered via Motion.
-- ⚡ **Cutting-Edge Stack** — Blazing fast hot module reloading and build speeds via Vite 6 and Tailwind CSS v4.
-- 🛡️ **Admin & Inventory Control** — Built-in panel for managing product catalogs, sizing metrics, and inventory counts.
+- **Modern Dark Aesthetic** — Modern dark UI with glassmorphic depth, dynamic particle atmospheres, and typographic precision.
+- **Gemini AI Luxury Concierge** — In-app conversational personal shopper and stylist powered by the `@google/genai` SDK.
+- **Interactive Product Showcase** — Fluid gallery view, responsive detail cards, high-resolution zoom, and real-time cart interactions.
+- **Cinematic Micro-Interactions** — Smooth hardware-accelerated animations and scrolling tickers engineered via Motion.
+- **Cutting-Edge Stack** — Blazing fast hot module reloading and build speeds via Vite 6 and Tailwind CSS v4.
+- **Admin & Inventory Control** — Built-in panel for managing product catalogs, sizing metrics, and inventory counts.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ Powered by Google's Gemini API, Obsidian Lux features an integrated luxury styli
 
 ---
 
-## 💻 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js**: `>= 18.x`
@@ -92,10 +92,10 @@ Powered by Google's Gemini API, Obsidian Lux features an integrated luxury styli
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **[MIT License](LICENSE)**.
 
 ---
 
-<p align="center">Made with ❤️ by Partho</p>
+<p align="center">Built by Partho</p>
